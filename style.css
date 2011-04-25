@@ -1,0 +1,10 @@
+/* plugin: googlemaps3 */
+div.googlemap3 {
+  paddind: 1px !important;
+  margin-top: 1em !important;
+  margin-left: 2em !important;
+  margin-bottom: 1em !important;
+  border: 1px solid __border__ !important;
+}
+/* end plugin: googlemaps3 */
+
